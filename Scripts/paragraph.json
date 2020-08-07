@@ -1,0 +1,16 @@
+{
+    "paragraph":
+    [
+        {
+           "introduction": "My name is AnubenKeshavala. You can call me Anu. I completed my bachelor in commerce in my backhome. Now, i am a student of the Software Engineering Technology Program at Centennial College. This is my second semester.",
+            "missionStatement": "My mission is to deliver the best possible reliable software solutions to help the communities to  improve IT efficiency and business profitability",
+            "favouriteQuote":"You may never know what results come of your actions, but if you do nothing, there will be no results. ~ ~ Mahatma Gandhi."  
+        },
+        { 
+            "realestatePage": "In this part of the project, my aim  is to provide the detail information of the project that i have completed. In this page, i am going to provide the projects that i have completed. Thes projects are fully completed by me. So,here, i am going to provide the link of the projects and the tasks that i completed.",
+            "protectedPlanet": "My second project is about the Protected Planet. I made about Lake Superior National Marine Conservation Area.I highlited the  Activities and experiences of that place and calender of  events.",
+            "instructorevaluationForm": "My Third project is about questionnaire on course instructor evaluation form. Here, i have prepared thirteen Questionnaires. These Questions also being divided in to several parts. i.e. About Instructor, course, general information and the comments fields. Please go through the links to find the details."
+        }
+
+    ]
+}
