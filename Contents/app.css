@@ -1,7 +1,7 @@
 /*
 File name: app.css
 Author's name: Anuben Keshavala
-Web site name:  Home Page
+Web site name:  Mini Portfolio 
 File description: This file is used for css customization
 */
 /* custom CSS goes here */
@@ -14,10 +14,12 @@ File description: This file is used for css customization
 }
 h1 {
   font-size: 40px;
+
 }
 
 h2 {
   font-size: 23px;
+  
 }
 
 p {

@@ -1,7 +1,7 @@
 
 // File name: app.js
 // Author's name: Anuben Keshavala
-// Web site name: Home Page 
+// Web site name: Mini Portfolio 
 // File Description: This file is used for Java Functionality
 
 
